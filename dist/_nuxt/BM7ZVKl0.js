@@ -1,0 +1,1 @@
+import{_ as a,c as t,a as n,d as o,F as r,o as s}from"./8dHVJhGS.js";const c={};function d(l,e){return s(),t(r,null,[e[0]||(e[0]=n("h1",null,"Home page",-1)),e[1]||(e[1]=o(" Another change yaml "))],64)}const _=a(c,[["render",d],["__scopeId","data-v-3415c82c"]]);export{_ as default};

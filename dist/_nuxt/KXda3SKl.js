@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./8dHVJhGS.js";import{u as s}from"./DvDPDgcs.js";import"./Dv86TGcG.js";const a={__name:"index",setup(r){return s({title:"About",description:"This is the about page"}),(c,_)=>(o(),t("h1",null,"About"))}},u=e(a,[["__scopeId","data-v-17388e3e"]]);export{u as default};
