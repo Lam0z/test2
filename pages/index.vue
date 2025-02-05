@@ -1,6 +1,6 @@
 <template>
     <h1>Home page</h1>
-    test yaml
+    Another change yaml
 </template>
 
 <script setup></script>
