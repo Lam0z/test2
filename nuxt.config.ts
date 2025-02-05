@@ -5,6 +5,11 @@ export default defineNuxtConfig({
     app: {
         baseURL: "/test2/", // Укажите имя вашего репозитория
         buildAssetsDir: "assets", // Папка для статических файлов
+        head: {
+            link: [
+                { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }, // путь к favicon
+            ],
+        },
     },
     modules: ["@vueuse/nuxt", "@nuxt/fonts"],
     fonts: {

@@ -3,7 +3,11 @@
     its work?
 </template>
 
-<script setup></script>
+<script setup>
+useSeoMeta({
+    title: "Home page",
+});
+</script>
 
 <style scoped>
 h1 {
