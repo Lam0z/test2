@@ -1,0 +1,1 @@
+import{c as e,o as t}from"./8S4GllbJ.js";import{u as o}from"./lczJFrMW.js";import"./BDMRVemx.js";const p={__name:"index",setup(r){return o({title:"About",description:"This is the about page"}),(a,s)=>(t(),e("h1",null,"About"))}};export{p as default};

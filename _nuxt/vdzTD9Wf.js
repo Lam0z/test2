@@ -1,0 +1,1 @@
+import{c as t,o as e}from"./8S4GllbJ.js";import{u as o}from"./lczJFrMW.js";import"./BDMRVemx.js";const p={__name:"index",setup(s){return o({title:"Contacts",description:"This is the contacts page"}),(a,c)=>(e(),t("h1",null,"Contacts"))}};export{p as default};
