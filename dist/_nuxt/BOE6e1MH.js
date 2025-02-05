@@ -1,1 +1,0 @@
-import{_ as t,c as e,o}from"./8dHVJhGS.js";import{u as c}from"./DvDPDgcs.js";import"./Dv86TGcG.js";const s={__name:"index",setup(a){return c({title:"Contacts",description:"This is the contacts page"}),(n,r)=>(o(),e("h1",null,"Contacts"))}},m=t(s,[["__scopeId","data-v-c979643c"]]);export{m as default};

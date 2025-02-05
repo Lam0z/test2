@@ -1,6 +1,6 @@
 <template>
     <h1>Home page</h1>
-    Another change yaml
+    SOME MAGIC
 </template>
 
 <script setup></script>
